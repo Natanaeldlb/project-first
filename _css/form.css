@@ -1,0 +1,26 @@
+@charset "UTF-8";
+legend{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form{
+    width: 550px;
+    margin: auto;
+}
+fieldset#identificacao{
+    background: url(../_imagens/icone-contato.png) no-repeat 95% 95%;
+}
+fieldset#endereco{
+    background: url(../_imagens/icone-endereco.png)no-repeat 95% 95%;
+}
+fieldset#mensagem{
+    background: url(../_imagens/icone-mensagem.png) no-repeat 1% 65%;
+}
+fieldset#google{
+    background: url(../_imagens/icone-pagamento.png)no-repeat 95% 95%;
+}
+fieldset#enviar{
+    text-align: center;
+}
